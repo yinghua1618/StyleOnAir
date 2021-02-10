@@ -1,0 +1,21 @@
+{
+  "name": "cssonair",
+  "version": "1.0.0",
+  "description": "css on air",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "mobile",
+    "pc",
+    "sync"
+  ],
+  "author": "Lyndon Wang",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
